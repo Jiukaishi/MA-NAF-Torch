@@ -1,2 +1,2 @@
 # MA-NAF-Torch
-**A PyTorch implementation of MA-NAF**
+**A PyTorch implementation of MA-NAF.**
